@@ -12,7 +12,7 @@ This repository contains all the basic machine learning examples which I had wri
     
     This I did to get an intuition of how using Convolution in an ANN helps in extracting features.
 
-- Theano scan example: It contains simple examples which uses the theano Scan function. This was done to get an understanding of how theano scan functions work.
+- Theano scan examples: It contains simple examples which uses the theano Scan function. This was done to get an understanding of how theano scan functions work.
 
 - Parity problem using RNN: Here I attempted to solve the common parity problem (where you output 1 if total number of 1's in the sequence is   odd, 0 otherwise) using simple neural networks and recurrent neural networks. This is what I found:
     1. ANN could solve the problem for smaller sequences, but failed if no of bits in the sequence was large. To solve the larger   sequences, deeper neural nets were required.
