@@ -8,12 +8,13 @@ This repository contains all the basic machine learning examples which I had wri
 - In 'Convolution Examples' there are three examples of how convolution can be used to alter image/audio files:-
     1. Echo effect
     2. Blurring of an image
-    3. Edge detection in an image 
-  This i did to get an intuition of how using Convolution in an ANN helps in extracting features.
+    3. Edge detection in an image
+    
+    This i did to get an intuition of how using Convolution in an ANN helps in extracting features.
 
 - 'Theano scan example' contains simple examples which uses the theano Scan function. This was done to get an understanding of how theano   scan functions work.
 
 - In 'Parity problem using RNN' I looked to solve the common parity problem where you output 1 if total number of 1's in the sequence is   odd, 0 otherwise.  
     1. ANN could solve the problem for smaller sequences, but failed if no of bits in the sequence was large. To solve the larger   sequences the ANN had to made deeper and deeper.
-    2. On the other hand, a simple RNN with just one hidden layer was able to solve the parity problem for much longer sequences. This was because of its ability to treate input as sequences rather than independent data.
+    2. On the other hand, a simple RNN with just one hidden layer was able to solve the parity problem for much longer sequences. This was because of its ability to treat input as sequences rather than independent data.
 
