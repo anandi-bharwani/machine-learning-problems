@@ -3,7 +3,7 @@ This repository contains all the basic machine learning examples which I had wri
 
 - Linear Regression, Logistic Regression and Multi-Class Logistic Regression are the excercises I implemented as part of the Machine Learning online course by Andrew Ng.
 
-- In 'ANN on a random guassian distribution', I created 3 random gaussian distributions centered around different points which served as 3 classes for classification. I then used backpropagation with cross entropy cost function to train the Neural Network.
+- In 'ANN on a random gaussian distribution', I created 3 random gaussian distributions centered around different points which served as 3 classes for classification. I then used backpropagation with cross entropy cost function to train the Neural Network.
 
 - In 'Convolution Examples' there are three examples of how convolution can be used to alter image/audio files:-
     1. Echo effect
